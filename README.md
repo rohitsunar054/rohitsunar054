@@ -39,13 +39,18 @@ Python Full Stack Developer | Python • Django • DRF • React
 
 ---
 
-# 📊 GitHub Analytics
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitsunar054&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsunar054&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
-</p>
+  <a href="https://github.com/rohitsunar054">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rohitsunar054&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+  </a>
 
+  <a href="https://github.com/rohitsunar054">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsunar054&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 ---
 
 # 🔥 Contribution Streak
@@ -56,10 +61,13 @@ Python Full Stack Developer | Python • Django • DRF • React
 
 ---
 
-# 📈 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsunar054&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsunar054&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
 </p>
 
 ---
@@ -106,22 +114,15 @@ Car rental platform focused on browsing vehicles, filtering cars and managing bo
 </tr>
 </table>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitsunar054&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-</p>
-
----
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitsunar054/rohitsunar054/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<h2 align="center">🔥 Contribution Streak</h2>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohitsunar054&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📚 Currently Learning
