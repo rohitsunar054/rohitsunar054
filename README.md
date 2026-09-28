@@ -6,14 +6,8 @@ Python Full Stack Developer | Python • Django • DRF • React
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitsunar054&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/rohitsunar054">
-    <img src="https://img.shields.io/github/followers/rohitsunar054?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/rohitsunar054?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge" alt="Repositories"/>
+  <a href="https://github.com/rohitsunar054?tab=followers">
+    <img src="https://img.shields.io/github/followers/rohitsunar054?label=Followers&style=flat&logo=github" alt="Followers"/>
   </a>
 </p>
 
@@ -21,13 +15,13 @@ Python Full Stack Developer | Python • Django • DRF • React
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on **DriveEase**
-* 🌱 Currently learning **Django, Django REST Framework & React.js**
-* 👯 Looking to collaborate on **Trendmart**
-* 💬 Ask me about **Python, Django & REST APIs**
-* 📫 Reach me at **[rohitsunar054@gmail.com](mailto:rohitsunar054@gmail.com)**
-* 📄 Check out my **Resume**
-* ⚡ Fun fact: **I enjoy calisthenics & coding**
+- 🔭 Currently building **DriveEase** (car rental platform)
+- 🌱 Learning **Django REST Framework, React.js & Docker**
+- 👯 Open to collaborate on **Trendmart**
+- 💬 Ask me about **Python, Django & REST APIs**
+- 📫 Reach me: **[rohitsunar054@gmail.com](mailto:rohitsunar054@gmail.com)**
+- 📄 **[Resume](YAHAN_RESUME_LINK_DAALO)**
+- ⚡ Fun fact: I enjoy calisthenics & coding
 
 ---
 
@@ -39,98 +33,63 @@ Python Full Stack Developer | Python • Django • DRF • React
 
 ---
 
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <a href="https://github.com/rohitsunar054">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rohitsunar054&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/rohitsunar054">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsunar054&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohitsunar054&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsunar054&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-  />
-</p>
-
----
-
-# 📅 Commit & Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsunar054&theme=tokyonight" />
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🛒 Trendmart
-
-E-commerce web application built with modern frontend and backend technologies.
+E-commerce web application with a React frontend and Django REST backend.
 
 **Tech:** React • Django • REST API • MySQL
 
-<a href="https://github.com/rohitsunar054/trendmart">
-  View Project →
-</a>
+[View Project →](https://github.com/rohitsunar054/trendmart)
 
 </td>
-
 <td width="50%">
 
 ### 🚗 DriveEase
-
-Car rental platform focused on browsing vehicles, filtering cars and managing bookings.
+Car rental platform for browsing vehicles, filtering cars and managing bookings.
 
 **Tech:** React • Django • REST API
 
-<a href="https://github.com/rohitsunar054">
-  View Project →
-</a>
+[View Project →](https://github.com/rohitsunar054)
 
 </td>
 </tr>
 </table>
 
+---
 
+## 📊 GitHub Stats
 
-# 🐍 Contribution Snake
-
-<h2 align="center">🔥 Contribution Streak</h2>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rohitsunar054&theme=tokyonight&hide_border=true" />
 </p>
----
-
-## 📚 Currently Learning
 
 <p align="center">
+  <img src="./github-metrics.svg" />
+</p>
 
-`Django` • `Django REST Framework` • `React.js` • `REST APIs` • `Docker`
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitsunar054/rohitsunar054/output/github-snake-dark.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rohitsunar054/rohitsunar054/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -138,23 +97,15 @@ Car rental platform focused on browsing vehicles, filtering cars and managing bo
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/rohit-sunar/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Sunar-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://instagram.com/__rohit095">
-  <img src="https://img.shields.io/badge/Instagram-__rohit095-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:rohitsunar054@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rohitsunar054%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/rohit-sunar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Sunar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/__rohit095">
+    <img src="https://img.shields.io/badge/Instagram-__rohit095-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:rohitsunar054@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-
-<p align="center">
-  <b>💻 Code. Build. Learn. Repeat. 🚀</b>
-</p>
+<p align="center"><b>💻 Code. Build. Learn. Repeat. 🚀</b></p>
