@@ -1,35 +1,159 @@
 <h1 align="center">Hi 👋, I'm Rohit Sunar</h1>
-<h3 align="center">Building modern web applications with Python, Django & React</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsunar054&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsunar054" /> </p>
+<h3 align="center">
+Python Full Stack Developer | Python • Django • DRF • React
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsunar054" alt="rohitsunar054" /></a> </p>
-
-- 🔭 I’m currently working on **DriveEase**
-
-- 🌱 I’m currently learning **Django, DRF & React.js**
-
-- 👯 I’m looking to collaborate on [Trendmart](https://github.com/rohitsunar054/trendmart)
-
-- 💬 Ask me about **Python, Django & REST APIs**
-
-- 📫 How to reach me **rohitsunar054@gmail.com**
-
-- 📄 Resume [https://drive.google.com/file/d/14qZhQVsJvXr4EW97o-XDr-rvRK1UPWwJ/view?usp=sharing](https://drive.google.com/file/d/14qZhQVsJvXr4EW97o-XDr-rvRK1UPWwJ/view?usp=sharing)
-
-- ⚡ Fun fact **I enjoy calisthenics & coding**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-sunar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-sunar/" height="30" width="40" /></a>
-<a href="https://instagram.com/__rohit095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__rohit095" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitsunar054&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/rohitsunar054">
+    <img src="https://img.shields.io/github/followers/rohitsunar054?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/rohitsunar054?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge" alt="Repositories"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsunar054&show_icons=true&locale=en&layout=compact" alt="rohitsunar054" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsunar054&show_icons=true&locale=en" alt="rohitsunar054" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsunar054&" alt="rohitsunar054" /></p>
+* 🔭 Currently working on **DriveEase**
+* 🌱 Currently learning **Django, Django REST Framework & React.js**
+* 👯 Looking to collaborate on **Trendmart**
+* 💬 Ask me about **Python, Django & REST APIs**
+* 📫 Reach me at **[rohitsunar054@gmail.com](mailto:rohitsunar054@gmail.com)**
+* 📄 Check out my **Resume**
+* ⚡ Fun fact: **I enjoy calisthenics & coding**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,redux,javascript,html,css,bootstrap,tailwind,mysql,postgresql,mongodb,docker,git,github,postman" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitsunar054&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsunar054&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohitsunar054&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitsunar054&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 📅 Commit & Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitsunar054&theme=tokyonight" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 Trendmart
+
+E-commerce web application built with modern frontend and backend technologies.
+
+**Tech:** React • Django • REST API • MySQL
+
+<a href="https://github.com/rohitsunar054/trendmart">
+  View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🚗 DriveEase
+
+Car rental platform focused on browsing vehicles, filtering cars and managing bookings.
+
+**Tech:** React • Django • REST API
+
+<a href="https://github.com/rohitsunar054">
+  View Project →
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitsunar054&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitsunar054/rohitsunar054/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+`Django` • `Django REST Framework` • `React.js` • `REST APIs` • `Docker`
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rohit-sunar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Sunar-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://instagram.com/__rohit095">
+  <img src="https://img.shields.io/badge/Instagram-__rohit095-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:rohitsunar054@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rohitsunar054%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code. Build. Learn. Repeat. 🚀</b>
+</p>
